@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 207, 181);
+    margin:0;
+}
+#main-header{
+    text-align: center;
+    margin:auto;
+    overflow:hidden;
+    font-size: 200%;
+    background-color: coral;
+    color:rgb(37, 32, 32)
+}
+.container{
+    text-align: center;
+    margin:auto;
+    font-size: 130%;
+}
+.homee{
+   text-align: center;
+   padding-top: 40px;
+    font-size: 50px;
+    margin:auto;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color:blue;
+}
+a:active{
+    color:purple;
+}
+#info{
+    text-align: center;
+    margin:auto;
+    font-weight: 500;
+}

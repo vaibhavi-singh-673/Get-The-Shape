@@ -1,0 +1,107 @@
+body{
+    background-color:white;
+    margin:0;
+}
+canvas {
+    background:rgb(255, 207, 181); ;
+  }
+#main-header{
+    padding-left: 265px;
+    padding-bottom: 10px;
+    margin:auto;
+    overflow:hidden;
+    font-size: 110%;
+    background-color: coral;
+    color:rgb(37, 32, 32)
+}
+#shift{
+    padding-top: 50px;
+    padding-left: 250px;
+}
+.shift-2{
+    padding-left: 40px; 
+    padding-bottom: 50px;
+}
+#text{
+    text-align: center;
+    background-color:white;
+    padding-left: 30px;
+}
+.button{
+    width :130px;
+    height:50px;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    text-align:center;    
+}
+#buttons{
+    background-color:white;
+    width: 45%;
+    float:left; 
+}
+#element{
+    padding-bottom: 30px;
+    background-color:white;
+    width: 55%;
+    float:right;
+}
+.home{
+    width:45%;
+    padding-left: 280px;
+    background-color: white;
+    font-size: 8px; 
+}
+    
+.button:active{
+    color:red;
+}
+#shapee{
+    width :200px;
+    height:40px;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    text-align:center;  
+}
+#colore{
+    padding-top: 5px;
+    width :200px;
+    height:40px;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    text-align:center;   
+}
+#height{
+    padding-top: 5px;
+    width :200px;
+    height:40px;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    text-align:center;  
+}
+#lenght{
+    padding-top: 5px;
+    width :200px;
+    height:40px;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    text-align:center; 
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color:blue;
+}
+a:active{
+    color:purple;
+}
+
+.hide{
+    display:none;
+}
